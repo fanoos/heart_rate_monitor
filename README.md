@@ -59,7 +59,7 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 Realtime Graphing Solution</li>
 <li>LineChart</li>
 </ul></td>
-<td><img src="https://raw.github.com/PhilJay/MPChart/master/design/other/bottom.png" width="400" height="200"/>
+<td><img src="https://raw.github.com/PhilJay/MPChart/master/design/other/bottom.png" width="400" height="50"/>
 </td>
 <td>
 <h5>BLE</h5>
