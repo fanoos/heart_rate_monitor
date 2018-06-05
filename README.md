@@ -59,10 +59,10 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 Realtime Graphing Solution</li>
 <li>LineChart</li>
 </ul></td>
-<td><img src="https://raw.github.com/PhilJay/MPChart/master/design/other/bottom.png" width="200"/>
+<td><img src="https://raw.github.com/PhilJay/MPChart/master/design/other/bottom.png" width="400"/>
 </td>
 <td>
-<h5>Firebase</h5>
+<h5>BLE</h5>
 <ul>
 <li>Firebase Realtime Database (Data is stored as JSON and synchronized in realtime to every connected client) </li>
 <li>Firebase Authentication (Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices)</li>
