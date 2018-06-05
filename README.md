@@ -47,7 +47,7 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 <ul>
 <li>Firebase Realtime Database (Data is stored as JSON and synchronized in realtime to every connected client) </li>
 <li>Firebase Authentication (Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices)</li>
-<li>Cloud Storage ()</li>
+<li>Cloud Storage</li>
 </ul>
 <td><img src="https://www.joshmorony.com/wp-content/uploads/2016/11/firebase.png" width="300"/></td>
 </tr>
