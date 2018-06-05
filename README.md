@@ -19,3 +19,9 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 <li>Continuously monitoring heart rate</li>
 <li>Check heart rate value and sends immediate alerts (Alarm,Call,SMS)</li>
 </ul>
+
+<b>Collect Data</b>:
+<ul>
+<li>Store Data in the Cloud (Firebase Realtime Database)</li>
+<li>Make Heart Rate Report Base on Last Hour|Night|Week</li>
+</ul>
