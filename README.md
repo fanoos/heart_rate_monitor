@@ -70,11 +70,14 @@ Realtime Graphing Solution</li>
 <td><img src="https://cdn.mist.com/wp-content/uploads/ble.png" width="300"/></td>
 </tr>
 </table>
-<img src="https://cloud.google.com/solutions/mobile/images/overview-firebase-appengine-standard.png">
+
 <table>
   <tr>
     <td>
       <img src="https://firebase.google.com/docs/auth/images/auth-providers.png">
+    </td>
+    <td>
+      <img src="https://cloud.google.com/solutions/mobile/images/overview-firebase-appengine-standard.png">
     </td>
   </tr>
 </table>
