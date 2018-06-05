@@ -74,7 +74,7 @@ Realtime Graphing Solution</li>
 <table>
   <tr>
     <td>
-      <img src="https://firebase.google.com/docs/auth/images/auth-providers.png">
+      <img src="https://firebase.google.com/docs/auth/images/auth-providers.png" width="600">
     </td>
     <td>
       <img src="https://cloud.google.com/solutions/mobile/images/overview-firebase-appengine-standard.png">
