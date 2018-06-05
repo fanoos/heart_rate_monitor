@@ -32,7 +32,7 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 <li>Patient Care Attendant Profile</li>
 </ul>
 
-# Technologies
+# Architecture and Technology
 <table>
 <tr>
 <td><h5>Android</h5>
@@ -64,10 +64,9 @@ Realtime Graphing Solution</li>
 <td>
 <h5>BLE</h5>
 <ul>
-<li>Firebase Realtime Database (Data is stored as JSON and synchronized in realtime to every connected client) </li>
-<li>Firebase Authentication (Knowing a user's identity allows an app to securely save user data in the cloud and provide the same personalized experience across all of the user's devices)</li>
-<li>Cloud Storage</li>
+<li>Bluetooth LE Technology</li>
+<li>(Bluetooth LE, BLE, marketed as Bluetooth Smart)</li>
 </ul>
-<td><img src="" width="300"/></td>
+<td><img src="https://cdn.mist.com/wp-content/uploads/ble.png" width="300"/></td>
 </tr>
 </table>
