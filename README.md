@@ -53,13 +53,13 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 <td><img src="https://www.joshmorony.com/wp-content/uploads/2016/11/firebase.png" width="300"/></td>
 </tr>
 <tr>
-<td><h5>scichart</h5>
+<td><h5>Scichart</h5>
 <ul>
 <li>
 Realtime Graphing Solution</li>
 <li>LineChart</li>
 </ul></td>
-<td><img src="https://raw.github.com/PhilJay/MPChart/master/design/other/bottom.png" width="500" height="50"/>
+<td><img src="https://raw.github.com/PhilJay/MPChart/master/design/other/bottom.png" width="400" height="50"/>
 </td>
 <td>
 <h5>BLE</h5>
