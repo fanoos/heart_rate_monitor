@@ -25,3 +25,9 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 <li>Store Data in the Cloud (Firebase Realtime Database)</li>
 <li>Make Heart Rate Report Base on Last Hour|Night|Week</li>
 </ul>
+
+<b>Settings</b>:
+<ul>
+<li>Child Profile</li>
+<li>Patient Care Attendant Profile</li>
+</ul>
