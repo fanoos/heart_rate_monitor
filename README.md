@@ -13,3 +13,9 @@ A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate 
 <li>Scan Bluetooth Low Energy Devices</li>
 <li>Connect to Device</li>
 </ul>
+
+<b>Monitoring Heart Rate</b>:
+<ul>
+<li>Continuously monitoring heart rate</li>
+<li>Check heart rate value and sends immediate alerts (Alarm,Call,SMS)</li>
+</ul>
