@@ -103,3 +103,10 @@ Realtime Graphing Solution</li>
 # Roadmap
 
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/RoadMap.JPG">
+
+# Team Members
+The team members are: Mostafa Ramezani, Soma Shekarchi.
+
+Links to our LinkedIn accounts:
+- Mostafa [LinkedIn: https://www.linkedin.com/in/mostafaramezani/]
+- Soma [LinkedIn: https://www.linkedin.com/in/somashekarchi/]
