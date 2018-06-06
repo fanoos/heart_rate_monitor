@@ -89,5 +89,13 @@ Realtime Graphing Solution</li>
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-1.png" alt="Signin" border="1">
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-2.png" alt="ParentDashboard" border="1">
 
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-3.png" alt="MonitoringDashboard" border="1">
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-4.png" alt="ScanDevice" border="1">
+
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-5.png" alt="MonitoringHeartRate" border="1">
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-6.png" alt="Alarm" border="1">
+
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-7.png" alt="SMS" border="1">
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-8.png" alt="ChartLine" border="1">
 
 </div>
