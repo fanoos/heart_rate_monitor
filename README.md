@@ -98,10 +98,13 @@ Realtime Graphing Solution</li>
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-7.png" alt="SMS" border="1">
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-8.png" alt="ChartLine" border="1">
 
-</div>
+
 # Video Demo
+
 - Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
+
 - Soma [LinkedIn: https://www.linkedin.com/in/somashekarchi/]
+
 # Roadmap
 
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/RoadMap.JPG">
