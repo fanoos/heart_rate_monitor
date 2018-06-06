@@ -86,8 +86,8 @@ Realtime Graphing Solution</li>
 
 <div style="width:100vw">
 
-<img width="50%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-1.png" alt="Signin" border="0">
-<img width="50%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-2.png" alt="ParentDashboard" border="0">
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-1.png" alt="Signin" border="0">
+<img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-2.png" alt="ParentDashboard" border="0">
 
 
 </div>
