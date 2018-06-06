@@ -82,6 +82,10 @@ Realtime Graphing Solution</li>
   </tr>
 </table>
 
+# Hardware
+
+<img src="https://www.polar.com/sites/default/files/product/big_images/h7_heart_rate_sensor_blue_550x600_16.png">
+
 # Screenshots
 
 <div style="width:100vw">
