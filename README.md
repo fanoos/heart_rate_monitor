@@ -120,3 +120,6 @@ Links to our LinkedIn accounts:
 - First overview [https://github.com/fanoos/heart_rate_monitor/blob/master/Diabetes-heart-rate.pdf]
 - Feedback overview [https://github.com/fanoos/heart_rate_monitor/blob/master/Feedback-Heartrate%20Monitoring%20in%20Diabetic%20Children.pdf]
 - Final Presentation [https://github.com/fanoos/heart_rate_monitor/blob/master/DocHero-HeartRate-Monitor.pdf]
+
+# Source code
+- First overview [https://github.com/fanoos/heart_rate_monitoring]
