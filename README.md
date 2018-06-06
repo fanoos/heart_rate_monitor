@@ -122,4 +122,4 @@ Links to our LinkedIn accounts:
 - Final Presentation [https://github.com/fanoos/heart_rate_monitor/blob/master/DocHero-HeartRate-Monitor.pdf]
 
 # Source code
-- First overview [https://github.com/fanoos/heart_rate_monitoring]
+- Andriod App [https://github.com/fanoos/heart_rate_monitoring]
