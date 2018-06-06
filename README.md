@@ -99,3 +99,5 @@ Realtime Graphing Solution</li>
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-8.png" alt="ChartLine" border="1">
 
 </div>
+# Roadmap
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/RoadMap.JPG">
