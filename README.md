@@ -103,7 +103,7 @@ Realtime Graphing Solution</li>
 
 - Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
 
-- Soma [LinkedIn: https://www.linkedin.com/in/somashekarchi/]
+- Run Alarm of High Heart Rate [https://youtu.be/EvwKW1WH4sQ]
 
 # Roadmap
 
