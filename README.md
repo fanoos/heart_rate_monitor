@@ -170,6 +170,7 @@ Realtime Graphing Solution</li>
 
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/polar_h7.png">
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/hardware.PNG">
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/real-environment.jpg">
 
 # Screenshots
 <h3>Part 1 (Polar Sensor)</h3>
