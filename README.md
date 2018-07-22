@@ -244,5 +244,7 @@ Links to our LinkedIn accounts:
 - Feedback overview [https://github.com/fanoos/heart_rate_monitor/blob/master/Feedback-Heartrate%20Monitoring%20in%20Diabetic%20Children.pdf]
 - Final Presentation [https://github.com/fanoos/heart_rate_monitor/blob/master/DocHero-HeartRate-Monitor.pdf]
 
+- Heart Rate Monitoring by STM32F401 board and pulse Sensor [https://www.slideshare.net/MostafaRamezani1/machine-learning-and-apache-edgent-with-stm32f401-to-firebase]
+
 # Source code
 - Andriod App [https://github.com/fanoos/heart_rate_monitoring]
