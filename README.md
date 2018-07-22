@@ -130,14 +130,12 @@ Realtime Graphing Solution</li>
 <td><img src="https://edgent.apache.org/img/apache_logo.png" width="400"/>
 </td>
 <td>
-<h5>STM32</h5>
+<h5>Arduino IDE</h5>
 <ul>
-<li>STM32F401 microcontrollers</li>
-<li>X-NUCLEO-IKS01A2 expansion board</li>
-<li>STM32CubeMX initialization code generator</li>
-  
+<li>The open-source Arduino Software (IDE) makes it easy to write code and upload it to the board</li>
+ 
 </ul>
-<td><img src="https://percepio.com/wp-content/uploads/2015/08/stm32generic.png" width="400"/></td>
+<td><img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Arduino2-IDE-LOGO.jpg" width="400"/></td>
 </tr>
 <tr>
 <td><h5>RXTX</h5>
