@@ -17,7 +17,13 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 
 
 # Main functionalities
-<b>Heart Rate Device</b>:
+<tabe>
+  <tr>
+    <td><h3><b>Part 1 </b></h3></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Heart Rate Device</b>:
 <ul>
 <li>Scan Bluetooth Low Energy Devices</li>
 <li>Connect to Device</li>
@@ -40,6 +46,12 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 <li>Child Profile</li>
 <li>Patient Care Attendant Profile</li>
 </ul>
+    </td>
+  </tr>
+  <tr></tr>
+  <tr></tr>
+  </table>
+
 
 # Architecture and Technology
 <table>
