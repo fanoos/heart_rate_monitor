@@ -19,12 +19,13 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 # Main functionalities
 <table style="width:100%">
   <tr>
-    <th>Part 1</th>
-    <th>Part 2</th> 
+    <th>Part 1 (Polar Sensor)</th>
+    <th>Part 2 (STM32F401 board and pulse Sensor) </th> 
    
   </tr>
   <tr>
-    <td><b>Heart Rate Device</b>:
+    <td>
+<b>Heart Rate Device</b>:
 <ul>
 <li>Scan Bluetooth Low Energy Devices</li>
 <li>Connect to Device</li>
@@ -47,26 +48,20 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 <li>Child Profile</li>
 <li>Patient Care Attendant Profile</li>
 </ul></td>
-    <td>Smith</td> 
+    <td>
+<b>Programming STM32 and Pulse Sensor</b>:
+<ul>
+<li>Use  Arduino software (IDE)</li>
+<li>Add STM32 boards support to Arduino</li>
+<li>Add PulseSensor.com Playground to Arduino</li>
+<li>Collect data from Sensor</li>
+</ul>
+</td> 
    
   </tr>
  
 </table>
-<tabe>
-  <tr>
-    <th><h3><b>Part 1 </b></h3></th>
-    <th><h3><b>Part 2 </b></h3></th>
-  </tr>
-  <tr>
-    <td>
-      
-    </td>
-    <td>
-  </td>
-  </tr>
-  
-  
-  </table>
+
 
 
 # Architecture and Technology
