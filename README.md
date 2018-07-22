@@ -190,6 +190,10 @@ Realtime Graphing Solution</li>
 
 <h3>Part 2 (STM32F401 board and pulse Sensor)</h3>
 
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Run_Fibrillation_1.png">
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Run_Fibrillation_2.png">
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Consol_State.PNG">
+
 # Video Demo
 
 - Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
