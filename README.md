@@ -132,6 +132,41 @@ Realtime Graphing Solution</li>
     </td>
   </tr>
 </table>
+<table>
+<tr>
+<td><h5>Apache Edgent</h5>
+<ul>
+<li>Version 1.2.0-incubating</li>
+<li>supported on Java 8 SE</li>
+</ul></td>
+<td><img src="https://edgent.apache.org/img/apache_logo.png" width="400"/>
+</td>
+<td>
+<h5>STM32</h5>
+<ul>
+<li>STM32F401 microcontrollers</li>
+<li>X-NUCLEO-IKS01A2 expansion board</li>
+<li>STM32CubeMX initialization code generator</li>
+  
+</ul>
+<td><img src="https://percepio.com/wp-content/uploads/2015/08/stm32generic.png" width="400"/></td>
+</tr>
+<tr>
+<td><h5>RXTX</h5>
+<ul>
+<li>x64 Binaries</li>
+<li>Version RXTX-2-2-20081207</li>
+</ul></td>
+<td><img src="http://rxtx.qbang.org/wiki/skins/common/images/wikii.png" width="400" height="50"/>
+</td>
+<td>
+<h5>Eclipse IDE</h5>
+<ul>
+<li>Version Neon</li>
+</ul>
+<td><img src="http://www.eclipse.org/artwork/images/v2/logo-800x188.png" width="400"/></td>
+</tr>
+</table>
 
 # Hardware
 
