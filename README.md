@@ -4,9 +4,17 @@
 # What is the Problem?
 Low blood sugar levels, known as hypoglycemia, in people with diabetes may cause potentially dangerous changes in heart rate. Someone with type 1 diabetes is found dead in the morning in an undisturbed bed after having been observed in apparently good health the day before.
 
-# Solution
-<h3><b>Doc Hero Heart Rate Monitoring</b></h3>
+# Doc Hero Solution
+<h3><b>Part 1: Heart Rate Monitoring by Polar Sensor - BLE </b></h3>
 A wearable Heart Rate Device measuring the beat-to-beat variation in heart rate is a promising device for the early detection of hypoglycemia, or low blood sugar, in type 1 diabetes. System sends immediate alerts to your smart device or receiver when your heartrate is trending too high or too low.
+
+<h3><b>Part 2: Heart Rate Monitoring by STM32F401 board and pulse Sensor  </b></h3>
+The STM32F401 Nucleo board detects the heartbeats through the pulse sensor.
+Do real-time analytics on the continuous streams of data coming from sensor by Apache Edgent. Such as Aggregation, Categorize data  in order to Reduce the amount of data transmitted to  analytics servers and Reduce the amount of data to be stored .
+Data Pre-processed with Apache Edgent and then submitted to the Machine Learning algorithm.
+ML algorithm does Classification of Heart Disease Using K- Nearest Neighbor and detect Heart Disease  such as Atrial fibrillation(Atrial fibrillation (AF or A-fib) is an abnormal heart rhythm characterized by rapid and irregular beating )
+Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Application.
+
 
 # Main functionalities
 <b>Heart Rate Device</b>:
