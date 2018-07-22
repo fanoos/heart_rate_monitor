@@ -172,6 +172,7 @@ Realtime Graphing Solution</li>
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/hardware.PNG">
 
 # Screenshots
+<h3>Part 1 (Polar Sensor)</h3>
 
 <div style="width:100vw">
 
@@ -187,6 +188,7 @@ Realtime Graphing Solution</li>
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-7.png" alt="SMS" border="1">
 <img width="45%" src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/scr-8.png" alt="ChartLine" border="1">
 
+<h3>Part 2 (STM32F401 board and pulse Sensor)</h3>
 
 # Video Demo
 
