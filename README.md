@@ -66,6 +66,14 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
     <li>Classification of Heart Disease Using K- Nearest Neighbor and detect Heart Disease</li>
   </ul>
   <b>Apache Edgent Application</b>
+  <ul>
+    <li>Categorize data based on BPM number</li>
+    <li>Aggregation the Heart Rate data</li>
+  </ul>
+  <b>Send data to cloud</b>
+  <ul>
+    <li>Use Firebase Admin to send data to Firebase Realtime database</li>
+  </ul>
 </td> 
    
   </tr>
