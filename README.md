@@ -120,18 +120,6 @@ Realtime Graphing Solution</li>
 <td><img src="https://cdn.mist.com/wp-content/uploads/ble.png" width="300"/></td>
 </tr>
 </table>
-
-<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Architecture.png">
-<table>
-  <tr>
-    <td>
-      <img src="https://firebase.google.com/docs/auth/images/auth-providers.png" width="600">
-    </td>
-    <td>
-      <img src="https://cloud.google.com/solutions/mobile/images/overview-firebase-appengine-standard.png">
-    </td>
-  </tr>
-</table>
 <table>
 <tr>
 <td><h5>Apache Edgent</h5>
@@ -167,6 +155,18 @@ Realtime Graphing Solution</li>
 <td><img src="http://www.eclipse.org/artwork/images/v2/logo-800x188.png" width="400"/></td>
 </tr>
 </table>
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Architecture.png">
+<table>
+  <tr>
+    <td>
+      <img src="https://firebase.google.com/docs/auth/images/auth-providers.png" width="600">
+    </td>
+    <td>
+      <img src="https://cloud.google.com/solutions/mobile/images/overview-firebase-appengine-standard.png">
+    </td>
+  </tr>
+</table>
+
 
 # Hardware
 
