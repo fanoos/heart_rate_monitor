@@ -196,11 +196,34 @@ Realtime Graphing Solution</li>
 
 # Video Demo
 <h3>Part 1 (Polar Sensor)</h3>
-- Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
+<ul>
+  <li>
+    Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
+  </li>
+  <li>
+    Run Alarm of High Heart Rate [https://youtu.be/EvwKW1WH4sQ]
+  </li>
+  </ul>
 
-- Run Alarm of High Heart Rate [https://youtu.be/EvwKW1WH4sQ]
 
 <h3>Part 2 (STM32F401 board and pulse Sensor)</h3>
+  <ul>
+  <li>
+    Sample of Use project [https://youtu.be/z4-mK-KDD-k]
+  </li>
+  <li>
+    Machine Learning [https://youtu.be/g2mwLiRT55o]
+  </li>
+  <li>
+    Categorize the Heart Rate State [https://youtu.be/bIEF7td8qyM]
+  </li>
+  <li>
+    Aggregation the Heart Rate data [https://youtu.be/WkpGs2RWD8I]
+  </li>
+  <li>
+    Programming STM32 and Pulse Sensor [https://youtu.be/l_7tFTZ9QKg]
+  </li> 
+  </ul>
 
 # Roadmap
 
