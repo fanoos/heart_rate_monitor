@@ -195,14 +195,19 @@ Realtime Graphing Solution</li>
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Consol_State.PNG">
 
 # Video Demo
-
+<h3>Part 1 (Polar Sensor)</h3>
 - Initial App and Use Heart Rate Monitoring [https://youtu.be/F6RQ29Ilp54]
 
 - Run Alarm of High Heart Rate [https://youtu.be/EvwKW1WH4sQ]
 
+<h3>Part 2 (STM32F401 board and pulse Sensor)</h3>
+
 # Roadmap
 
+<h3>Part 1 (Polar Sensor)</h3>
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/RoadMap.JPG">
+<h3>Part 2 (STM32F401 board and pulse Sensor)</h3>
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Roadmap_part_2.png">
 
 # Team Members
 The team members are: Mostafa Ramezani, Soma Shekarchi.
