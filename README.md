@@ -121,6 +121,7 @@ Realtime Graphing Solution</li>
 </tr>
 </table>
 
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Architecture.png">
 <table>
   <tr>
     <td>
