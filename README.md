@@ -135,6 +135,7 @@ Realtime Graphing Solution</li>
 # Hardware
 
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/polar_h7.png">
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/hardware.PNG">
 
 # Screenshots
 
