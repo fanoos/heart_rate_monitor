@@ -20,6 +20,7 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 <tabe>
   <tr>
     <td><h3><b>Part 1 </b></h3></td>
+    <td><h3><b>Part 2 </b></h3></td>
   </tr>
   <tr>
     <td>
@@ -47,9 +48,11 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 <li>Patient Care Attendant Profile</li>
 </ul>
     </td>
+    <td>
+  </td>
   </tr>
-  <tr></tr>
-  <tr></tr>
+  
+  
   </table>
 
 
