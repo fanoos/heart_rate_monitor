@@ -17,6 +17,29 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 
 
 # Main functionalities
+<style type="text/css">
+#wrap {
+   width:600px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:300px;
+}
+#right_col {
+   float:right;
+   width:300px;
+}
+</style>
+
+<div id="wrap">
+    <div id="left_col">
+        ...
+    </div>
+    <div id="right_col">
+        ...
+    </div>
+</div>
 <tabe>
   <tr>
     <td><h3><b>Part 1 </b></h3></td>
