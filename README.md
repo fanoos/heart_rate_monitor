@@ -207,7 +207,7 @@ Realtime Graphing Solution</li>
 <h3>Part 1 (Polar Sensor)</h3>
 <img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/RoadMap.JPG">
 <h3>Part 2 (STM32F401 board and pulse Sensor)</h3>
-<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Roadmap_part_2.png">
+<img src="https://github.com/fanoos/heart_rate_monitor/blob/master/Demo/Roadmap_part2.png">
 
 # Team Members
 The team members are: Mostafa Ramezani, Soma Shekarchi.
