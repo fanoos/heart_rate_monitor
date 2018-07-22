@@ -19,25 +19,12 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 # Main functionalities
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
+    <th>Part 1</th>
+    <th>Part 2</th> 
    
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-   
-  </tr>
- 
-</table>
-<tabe>
-  <tr>
-    <th><h3><b>Part 1 </b></h3></th>
-    <th><h3><b>Part 2 </b></h3></th>
-  </tr>
-  <tr>
-    <td>
-      <b>Heart Rate Device</b>:
+    <td><b>Heart Rate Device</b>:
 <ul>
 <li>Scan Bluetooth Low Energy Devices</li>
 <li>Connect to Device</li>
@@ -59,7 +46,20 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 <ul>
 <li>Child Profile</li>
 <li>Patient Care Attendant Profile</li>
-</ul>
+</ul></td>
+    <td>Smith</td> 
+   
+  </tr>
+ 
+</table>
+<tabe>
+  <tr>
+    <th><h3><b>Part 1 </b></h3></th>
+    <th><h3><b>Part 2 </b></h3></th>
+  </tr>
+  <tr>
+    <td>
+      
     </td>
     <td>
   </td>
