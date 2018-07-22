@@ -54,8 +54,18 @@ Finally all Data sent to Firebase Realtime Database by Firebase Admin in Java Ap
 <li>Use  Arduino software (IDE)</li>
 <li>Add STM32 boards support to Arduino</li>
 <li>Add PulseSensor.com Playground to Arduino</li>
-<li>Collect data from Sensor</li>
 </ul>
+  <b>Collect data from Sensor</b>
+  <ul>
+    <li>Capture raw data in COM port (Serial port )- Use RXTX Library</li>
+    <li>Create Apache Edgent Pulse Sensor class</li>
+  </ul>
+  <b>Machine learning</b>
+  <ul>
+    <li>Pre-Processing data through Apache Edgent</li>
+    <li>Classification of Heart Disease Using K- Nearest Neighbor and detect Heart Disease</li>
+  </ul>
+  <b>Apache Edgent Application</b>
 </td> 
    
   </tr>
